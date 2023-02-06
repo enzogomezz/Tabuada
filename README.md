@@ -1,2 +1,0 @@
-# Tabuada
-Exercício de Tabuada
